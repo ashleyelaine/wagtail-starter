@@ -1,2 +1,2 @@
-# wagtail-starter
-Starter for Wagtail projects
+# wagtail starter
+
